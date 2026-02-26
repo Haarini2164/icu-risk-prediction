@@ -1,5 +1,7 @@
-# icu-risk-prediction
-AI-based patient risk prediction using machine learning
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/medical-healthcare-background_23-2148560327.jpg" width="700"/>
+</p>
+
 # 🚑 AI-Based ICU Patient Risk Prediction System
 
 ## 📌 Overview
@@ -34,8 +36,7 @@ The system leverages Machine Learning techniques to assist in early risk identif
 
 ### 1. Data Preprocessing
 
-* Loaded and cleaned dataset
-* Checked for missing values
+* Loaded dataset and checked for missing values
 
 ### 2. Feature Engineering
 
@@ -58,24 +59,15 @@ The system leverages Machine Learning techniques to assist in early risk identif
 ### 5. Model Interpretation
 
 * Analyzed **feature importance**
-* Identified key factors influencing predictions
+* Identified key clinical factors influencing predictions
 
 ---
 
 ## 📈 Results
 
 * High prediction accuracy and consistency
-* Reliable risk classification system
-* Model provides interpretable healthcare insights
-
----
-
-## 🧠 Key Learnings
-
-* Machine Learning pipeline development
-* Feature engineering for healthcare data
-* Model validation techniques
-* Importance of interpretability in ML
+* Reliable multi-level risk classification
+* Interpretable insights for healthcare applications
 
 ---
 
@@ -92,10 +84,17 @@ The system leverages Machine Learning techniques to assist in early risk identif
 
 * Deploy using Streamlit dashboard
 * Integrate real-time patient monitoring
-* Use advanced models (XGBoost, Deep Learning)
+* Use advanced models like XGBoost
 
 ---
 
 ## 📌 Conclusion
 
-This project demonstrates how machine learning can be applied in healthcare to assist in early risk prediction and decision support, making it a valuable step toward AI-driven clinical systems.
+This project demonstrates how machine learning can be applied in healthcare to assist in early risk prediction and decision support.
+
+---
+
+## 📁 Project Files
+
+* `notebook.ipynb` → Full project implementation
+* `model.pkl` → Trained model (optional)
