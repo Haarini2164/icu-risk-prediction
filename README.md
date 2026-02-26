@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/medical-healthcare-background_23-2148560327.jpg" width="700"/>
+  <img src="https://img.freepik.com/free-vector/medical-healthcare-blue-background_1017-26807.jpg" width="700"/>
 </p>
 
 # 🚑 AI-Based ICU Patient Risk Prediction System
