@@ -1,6 +1,7 @@
 <h1 align="center">🚑 AI-Based ICU Patient Risk Prediction System</h1>
 
 <p align="center"><b>Machine Learning for Healthcare Risk Analysis</b></p>
+
 ## 📌 Overview
 
 This project focuses on predicting patient risk levels (Low, Medium, High) using clinical healthcare data.
