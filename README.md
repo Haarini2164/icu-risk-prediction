@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/flat-design-healthcare-background_23-2148824109.jpg" width="700"/>
-</p>
-
 <h1 align="center">🚑 AI-Based ICU Patient Risk Prediction System</h1>
 
 <p align="center"><b>Machine Learning for Healthcare Risk Analysis</b></p>
